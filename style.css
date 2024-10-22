@@ -278,7 +278,7 @@ footer p {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .gallery h2 {
@@ -288,7 +288,7 @@ footer p {
 
 .photo {
     width: 30%;
-    margin: 10px;
+    margin: 20px;
     text-align: center;
 }
 
